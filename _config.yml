@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "sc4rekr0w homepage"
-title_separator          : "-"
-name                     : "Snowscan"
-description              : "Posts about security, CTFs and networking"
+title                    : "Sc4rekr0w Homepage"
+title_separator          : "|"
+name                     : "sc4rekr0w"
+description              : "Learn about security, CTFs and networking"
 url                      : "https://sc4rekr0w.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sc4rekr0w/sc4rekr0w.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo                     : "/assets/images/masthead.png"
+logo                     : "/assets/images/logo.JPG"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -102,10 +102,10 @@ analytics:
 # Site Author
 author:
   name             : "sc4rekr0w"
-  avatar           : "/assets/images/avatar.png"
-  bio              : "Pentester, CTF player<br>HackTheBox ATeam"
+  avatar           : "/assets/images/avatarsc.jpeg"
+  bio              : "Pentester, CTF player<br>RedTeam"
   location         : "Spain"
-  email            : "info@snowscan.io"
+  email            : 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -117,16 +117,16 @@ author:
   github           : "sc4r3kr0w"
   gitlab           :
   google_plus      :
-  keybase          : "snowscan"
+  keybase          : 
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "matiasmanglano" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "snowscan"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
